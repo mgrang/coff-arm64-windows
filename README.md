@@ -16,6 +16,8 @@ https://reviews.llvm.org/D56029  [Support resolving signed fixups for :abs_g0_s:
 
 ### ARM64 Intrinsics patches:
 
+https://reviews.llvm.org/D56671    [Add __nop intrinsic]
+
 https://reviews.llvm.org/D53962	   [Implement llvm.addressofreturnaddress intrinsic]
 
 https://reviews.llvm.org/rC345808  [Implement llvm.addressofreturnaddress intrinsic]
