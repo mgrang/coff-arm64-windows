@@ -6,7 +6,11 @@ This README details my upstream LLVM work on enabling the arm64-windows target i
 
 https://reviews.llvm.org/D53540  [Implement support for SEH extensions __try/__except/__finally]
 
-https://reviews.llvm.org/D53541  [Support SEH for ARM64 Windows]
+https://reviews.llvm.org/D56747  [Rename llvm.x86.seh.recoverfp intrinsic to llvm.eh.recoverfp]
+
+https://reviews.llvm.org/D56748  [Rename llvm.x86.seh.recoverfp intrinsic to llvm.eh.recoverfp]
+
+https://reviews.llvm.org/D53541  [Do not emit x86_seh_recoverfp intrinsic]
 
 https://reviews.llvm.org/D50029	 [Enable SEH for ARM64 Windows]
 
@@ -15,6 +19,8 @@ https://reviews.llvm.org/D56037  [Emit the correct MCExpr relocations specifiers
 https://reviews.llvm.org/D56029  [Support resolving signed fixups for :abs_g0_s: etc.]
 
 ### ARM64 Intrinsics patches:
+
+https://reviews.llvm.org/D56685    [Add __byteswap intrinsics]
 
 https://reviews.llvm.org/D56671    [Add __nop intrinsic]
 
