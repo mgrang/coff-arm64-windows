@@ -2,6 +2,12 @@
 
 This README details my upstream LLVM work on enabling the arm64-windows target in LLVM.
 
+### Chromium ARM64 Windows Support
+
+http://lists.llvm.org/pipermail/llvm-dev/2018-July/124687.html
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=893460#c21
+
 ### Structured Exception Handling (SEH) patches:
 
 https://reviews.llvm.org/D53540  [Implement support for SEH extensions __try/__except/__finally]
