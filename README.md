@@ -14,6 +14,8 @@ https://bugs.chromium.org/p/chromium/issues/detail?id=893460#c21
 
 https://reviews.llvm.org/D53540  [Implement support for SEH extensions __try/__except/__finally]
 
+https://reviews.llvm.org/D57183  [Fix localaddress to handle stack realignment and variable size objects]
+
 https://reviews.llvm.org/D56747  [Rename llvm.x86.seh.recoverfp intrinsic to llvm.eh.recoverfp]
 
 https://reviews.llvm.org/D56748  [Rename llvm.x86.seh.recoverfp intrinsic to llvm.eh.recoverfp]
