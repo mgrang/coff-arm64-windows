@@ -74,6 +74,10 @@ https://reviews.llvm.org/D36110	   [Add MS builtins __dmb, __dsb, __isb]
 
 ### ARM64 Calling Convention and other patches:
 
+https://reviews.llvm.org/D60348 [Fix ABI implementation of struct returns]
+
+https://reviews.llvm.org/D60349 [Fix ABI implementation of struct returns]
+
 https://reviews.llvm.org/D55535	 [Emit COFF function header]
 
 https://reviews.llvm.org/D54248	 [Add support for MSVC buffer security check]
